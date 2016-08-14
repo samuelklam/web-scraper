@@ -12,7 +12,11 @@ app.use(bodyParser.json());
 
 const hackerNewsData = {};
 
-/* Note that the below may not be a robust solution as HN's site and the article format may change from time to time - factoring in corner cases. Adapt as needed. */
+/**
+ * Note:
+ * the below may not be a robust solution as HN's site and the article
+ * format may change from time to time. Adapt as needed.
+ */
 request('https://news.ycombinator.com/newest', (err, res, html) => {
   const $ = cheerio.load(html);
 
