@@ -1,0 +1,27 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --watch app -e js,html app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelklam/web-scraper.git"
+  },
+  "author": "Samuel K. Lam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelklam/web-scraper/issues"
+  },
+  "homepage": "https://github.com/samuelklam/web-scraper#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "chalk": "^1.1.3",
+    "express": "^4.14.0",
+    "nodemon": "^1.10.0",
+    "path": "^0.12.7"
+  }
+}
