@@ -16,6 +16,8 @@ app.use(bodyParser.json());
 //   // => News Link | Hacker News
 // });
 
+const hackerNewsData = {};
+
 request('https://news.ycombinator.com/newest', (err, res, html) => {
   const $ = cheerio.load(html);
 
@@ -24,17 +26,28 @@ request('https://news.ycombinator.com/newest', (err, res, html) => {
     var tableRow = `table tr:nth-child(3) table tr:nth-child(${i})`;
 
     // grab article rank
-    let rank = $(`${tableRow} span`).html();
+    let rank = $(`${tableRow} span`).html().slice(0, -1);
+    hackerNewsData[rank] = {};
 
     // grab urlLink and title which are in same <td>
-    let extractHref = $(`${tableRow} td:nth-child(3) a`);
-    let urlLink = extractHref.attr().href;
-    let title = extractHref.html();
+    let extractTd = `${tableRow} td:nth-child(3)`;
 
-    console.log(rank);
-    console.log(urlLink);
-    console.log(title);
+    let urlLink = $(`${extractTd} a`).attr().href;
+
+    let header = $(`${extractTd}`).first().text();
+    let lastIdx = header.lastIndexOf(' ');
+    let title = header.substring(0, lastIdx);
+
+
+    let site = header.slice(lastIdx+2, -1);
+
+    hackerNewsData[rank]['url'] = urlLink;
+    hackerNewsData[rank]['title'] = title;
+    hackerNewsData[rank]['site'] = site;
   }
+  fs.writeFile('hackerNews.json', JSON.stringify(hackerNewsData, null, 4), err => {
+    console.log('Created successfully!');
+  });
 });
 
 const PORT = process.env.port || 8000;
