@@ -1,9 +1,9 @@
 # Web Scraping
 
-A dive into web scraping using JavaScript and various tools - http://slides.com/samuelklam/web-scraping.
+A dive into web scraping using JavaScript - http://slides.com/samuelklam/web-scraping.
 
 ## Content
-In ```app.js```, the title, article link and site is scraped and ordered by rank into ```hackerNews.json```.
+See ```app.js```, which extracts the title, article URL and origin site from the 'newest' page in [Hacker News](https://news.ycombinator.com/newest) and orders by rank into ```hackerNews.json```.
 
 
 ## Technologies Used
