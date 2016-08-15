@@ -1,151 +1,152 @@
 {
     "1": {
-        "url": "https://www.youtube.com/watch?v=j_GJfSTz6Dg",
-        "title": "Rocky Reality – Pebble Smartwatch Demo by Rockbed Bros",
-        "site": "youtube.com"
+        "url": "http://canyouactually.com/100-years-ago-artists-were-asked-to-imagine-what-life-would-be-like-in-the-year-2000/",
+        "title": "100 Years Ago, Artists Were Asked to Depict the Year 2000",
+        "site": "canyouactually.com"
     },
     "2": {
-        "url": "https://www.farnamstreetblog.com/2016/08/mental-model-bias-envy-jealousy/",
-        "title": "Mental Model: Bias from Envy and Jealousy",
-        "site": "farnamstreetblog.com"
+        "url": "http://redmonk.com/sogrady/2016/08/10/database-market/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+tecosystems+%28tecosystems%29",
+        "title": "Where the Database Market Goes from Here",
+        "site": "redmonk.com"
     },
     "3": {
-        "url": "https://medium.com/@melissambugua/the-next-era-for-african-innovation-hubs-60442021b373",
-        "title": "The Next Era for Africa's Innovation Hubs",
-        "site": "medium.com"
+        "url": "http://mymvpblueprint.com/",
+        "title": "Before building and launching a new product, start with a blueprint",
+        "site": "mymvpblueprint.com"
     },
     "4": {
-        "url": "http://www.bon-method.com/book_print_a4.pdf",
-        "title": "Seamless Object-Oriented Software Architecture (1994) [pdf]",
-        "site": "bon-method.com"
+        "url": "https://www.media.mit.edu/video/view/forbiddenresearch-2016-07-21-2",
+        "title": "Solar Geoengineering by blocking the sun's ray to help mitigate climate change",
+        "site": "mit.edu"
     },
     "5": {
-        "url": "http://www.cpt.coe.int/en/documents/doc-visit-by-cpt.pdf",
-        "title": "A Visit by the CPT – What's it all about? (1999) [pdf]",
-        "site": "coe.int"
+        "url": "https://www.fastcodesign.com/3061519/evidence/the-ux-secret-that-will-ruin-apps-for-you",
+        "title": "Slower websites are typically more trusted by users than faster ones",
+        "site": "fastcodesign.com"
     },
     "6": {
-        "url": "http://www.nytimes.com/2016/08/13/business/dealbook/bitcoin-blockchain-banking-finance.html",
-        "title": "Envisioning Bitcoin’s Technology at the Heart of Global Finance",
-        "site": "nytimes.com"
+        "url": "https://medium.com/@charlesmudy/finding-creativity-as-a-ui-ux-designer-newbies-dab6c8fb5336#.usehx0u06",
+        "title": "Finding creativity as a UI/UX designer (newbies)",
+        "site": "medium.com"
     },
     "7": {
-        "url": "https://github.com/b00giZm/golexa",
-        "title": "Show HN: Golexa – A Go library to easily handle Alexa custom skill requests",
-        "site": "github.com"
+        "url": "http://www.1bytebeta.com/javascript-closures-explained/",
+        "title": "JavaScript Closures Explained",
+        "site": "1bytebeta.com"
     },
     "8": {
-        "url": "https://github.com/cusspvz/node.docker",
-        "title": "Super Small Node.js Container (~20MB) Based on Alpine Linux OS",
-        "site": "github.com"
+        "url": "https://thekinigroup.com/enterprise-wide-analytics-alignment/",
+        "title": "The Definitive Guide to Enterprise-Wide Analytics Alignment",
+        "site": "thekinigroup.com"
     },
     "9": {
-        "url": "http://www.sacbee.com/news/politics-government/capitol-alert/article95116732.html",
-        "title": "Bill letting California end Daylight Saving Time clears key committee",
-        "site": "sacbee.com"
+        "url": "http://finance.yahoo.com/news/tim-cook-says-apple-wont-183800408.html",
+        "title": "Tim Cook says Apple won't repatriate money to US 'until there's a fair rate'",
+        "site": "yahoo.com"
     },
     "10": {
-        "url": "http://www.theverge.com/circuitbreaker/2016/8/13/12460542/mit-microsoft-research-gold-leaf-smart-temporary-tattoo",
-        "title": "MIT and MS made a 'smart' tattoo that remotely controls your phone",
-        "site": "theverge.com"
+        "url": "http://redmonk.com/rstephens/2016/08/05/iaas-pricing-patterns-and-trends/",
+        "title": "IaaS Pricing Patterns and Trends",
+        "site": "redmonk.com"
     },
     "11": {
-        "url": "https://github.com/trailofbits/cb-multios",
-        "title": "Darpa Challenges Binaries for Linux, Windows, and OS X",
-        "site": "github.com"
+        "url": "https://prestonbyrne.com/2016/08/12/against-crowdsales/",
+        "title": "Against Tokens (of the cryptocurrency variety)",
+        "site": "prestonbyrne.com"
     },
     "12": {
-        "url": "https://github.com/killbill/killbill",
-        "title": "KillBill: Open-Source Subscription Billing and Payment Platform",
-        "site": "github.com"
+        "url": "http://www.today.com/parents/schools-find-one-simple-answer-attendance-problem-washing-machines-t101318",
+        "title": "How putting laundry machines in poor public schools boosted attendance",
+        "site": "today.com"
     },
     "13": {
-        "url": "item?id=12285677",
-        "title": "Ask HN: Please review my startup Makerloom at",
-        "site": "ww.makerloom.co"
+        "url": "http://blog.cryptographyengineering.com/2016/08/is-apples-cloud-key-vault-crypto.html",
+        "title": "Is Apple's Cloud Key Vault a Crypto Backdoor?",
+        "site": "cryptographyengineering.com"
     },
     "14": {
-        "url": "http://arstechnica.com/science/2016/08/orbital-angular-momentum-states-may-vastly-increase-fibers-bandwidth/",
-        "title": "Orbital angular momentum states may vastly increase fiber’s bandwidth",
-        "site": "arstechnica.com"
-    },
-    "15": {
-        "url": "http://www.politico.com/story/2016/08/palantir-defense-contracts-lobbyists-226969",
-        "title": "How Silicon Valley's Palantir Wired Washington",
+        "url": "http://www.politico.com/magazine/story/2016/08/2016-elections-russia-hack-how-to-hack-an-election-in-seven-minutes-214144",
+        "title": "How to Hack an Election in 7 Minutes",
         "site": "politico.com"
     },
+    "15": {
+        "url": "https://www.youtube.com/watch?v=QFeG9CeeH88",
+        "title": "A Strange Change of Rotation",
+        "site": "youtube.com"
+    },
     "16": {
-        "url": "http://www.washingtonpost.com/wp-dyn/content/article/2008/07/11/AR2008071103281_pf.html",
-        "title": "'Kung Fu Panda' Hits a Sore Spot in China (2008)",
-        "site": "washingtonpost.com"
+        "url": "http://www.cam.ac.uk/research/news/textbook-story-of-how-humans-populated-america-is-biologically-unviable-study-finds",
+        "title": "Story of how humans populated America is “biologically unviable”, study finds",
+        "site": "cam.ac.uk"
     },
     "17": {
-        "url": "https://github.com/zalmoxisus/redux-devtools-extension/releases/tag/v2.5.0",
-        "title": "Autogenerate tests for Redux",
-        "site": "github.com"
+        "url": "https://www.google.com/patents/US6285999",
+        "title": "Method for node ranking in a linked database (US 6285999 B1)",
+        "site": "google.com"
     },
     "18": {
-        "url": "https://heartsucker.com/blog/children-at-play",
-        "title": "Children at Play: prankster, scammer, or arms dealer?",
-        "site": "heartsucker.com"
+        "url": "https://github.com/Microsoft/deep_learning_tools_for_dsvm",
+        "title": "Deep Learning Tools for Microsoft's Data Science Virtual Machine",
+        "site": "github.com"
     },
     "19": {
-        "url": "http://arstechnica.com/science/2016/08/raising-your-kid-as-a-vegan-could-soon-be-a-crime-in-italy/",
-        "title": "Raising your kid as a vegan could soon be a crime in Italy",
-        "site": "arstechnica.com"
+        "url": "https://www.youtube.com/watch?v=N0JTvyCxiv8",
+        "title": "Low Latency New GC on OpenJDK: Shenandoah (talk by Christine Flood, 27mn)",
+        "site": "youtube.com"
     },
     "20": {
-        "url": "http://jsideris.github.io/Sequencr.js/",
-        "title": "Sequencr.js Chain functions together| exe loops punctuated by timeouts| promises",
-        "site": "jsideris.github.io"
+        "url": "http://www.newstatesman.com/culture/books/2016/08/tolerant-philosopher-why-pierre-bayle-forgotten-figure-enlightenment",
+        "title": "The tolerant philosopher: Pierre Bayle, forgotten figure of the Enlightenment",
+        "site": "newstatesman.com"
     },
     "21": {
-        "url": "http://www.hanselman.com/blog/ImAPhonyAreYou.aspx",
-        "title": "I'm a phony. Are you?",
-        "site": "hanselman.com"
+        "url": "https://medium.com/@therevoltingx/test-driven-development-w-apache-spark-746082b44941#.5mqkret0o",
+        "title": "Test Driven Development with Apache Spark",
+        "site": "medium.com"
     },
     "22": {
-        "url": "http://www.backlinkfy.com/news/2016/5/30/top-50-los-angeles-digital-marketing-agencies#.V7B546r1rxw.hackernews",
-        "title": "Top 50 Los Angeles Digital Marketing Agencies to Consider",
-        "site": "backlinkfy.com"
+        "url": "https://medium.com/@andrewatson/we-need-more-companies-like-theranos-f16d785151a3#.dtq1cqi29",
+        "title": "We Need More Companies Like Theranos",
+        "site": "medium.com"
     },
     "23": {
-        "url": "https://www.usenix.org/system/files/conference/woot14/woot14-ghena.pdf",
-        "title": "Green Lights Forever: Analyzing Security of Traffic Infrastructure (2014) [pdf]",
-        "site": "usenix.org"
+        "url": "http://yargs.js.org/2016/08/14/yargs-5.html",
+        "title": "Show HN: Yargs 5.0.0 released",
+        "site": "js.org"
     },
     "24": {
-        "url": "https://www.sciencedaily.com/releases/2016/08/160812103718.htm",
-        "title": "'Chemtrails' not real, say atmospheric science experts",
-        "site": "sciencedaily.com"
+        "url": "https://medium.com/@bcjordan/emojify-your-wi-fi-c01f4ac0b0ab#.6mefpyxol",
+        "title": "Emojify your Wi-Fi",
+        "site": "medium.com"
     },
     "25": {
-        "url": "https://medium.com/@nntaled/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15#.9169rn420",
-        "title": "The Most Intolerant Wins: The Dictatorship of the Small Minority",
-        "site": "medium.com"
+        "url": "http://www.thinkmag.net/ethicalaccessoriescheatsheet",
+        "title": "The Ethical Accessories Guide",
+        "site": "thinkmag.net"
     },
     "26": {
-        "url": "https://www.openfisca.fr/en",
-        "title": "OpenFisca – Open models to compute tax and benefit systems",
-        "site": "openfisca.fr"
+        "url": "https://medium.com/@mxatone/kernel-memory-randomization-and-trampoline-page-tables-9f73827270ab#.em7env45m",
+        "title": "Kernel memory randomization and trampoline page tables",
+        "site": "medium.com"
     },
     "27": {
-        "url": "http://journal.frontiersin.org/article/10.3389/fpsyg.2016.01153/full",
-        "title": "Motivational Incongruence and Well-Being at the Workplace",
-        "site": "frontiersin.org"
+        "url": "https://thestack.com/data-centre/2016/08/11/intel-acquires-ai-startup-in-data-centre-push/",
+        "title": "Intel acquires AI startup in data centre push",
+        "site": "thestack.com"
     },
     "28": {
-        "url": "item?id=12285536",
-        "title": "Ask HN: How to start a tutoring (programming)",
-        "site": "usiness"
+        "url": "http://venturebeat.com/2016/08/13/blab-video-chat-app-no-more/",
+        "title": "Monkey Inferno shuts down its Blab video chat app",
+        "site": "venturebeat.com"
     },
     "29": {
-        "url": "https://lists.freebsd.org/pipermail/freebsd-stable/2016-August/085277.html",
-        "title": "FreeBSD 11.0-RC1 Now Available",
-        "site": "freebsd.org"
+        "url": "https://carlmastrangelo.com/blog/non-solutions-to-http-1-1-problems",
+        "title": "Non-Solutions to HTTP/1.1 Problems",
+        "site": "carlmastrangelo.com"
     },
     "30": {
-        "url": "https://medium.com/@anildash/the-lost-infrastructure-of-social-media-d2b95662ccd3#.f0rz8cyiv",
-        "title": "The lost infrastructure of social media",
-        "site": "medium.com"
+        "url": "http://blogs.discovermagazine.com/notrocketscience/2012/09/26/spiny-mice-flaying-skin-healing-factor/#.V7DJb7WbPUI",
+        "title": "Spiny mice defend themselves with self-flaying skin and fast healing factors",
+        "site": "discovermagazine.com"
     }
+}

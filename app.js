@@ -19,6 +19,8 @@ const hackerNewsData = {};
  */
 request('https://news.ycombinator.com/newest', (err, res, html) => {
   const $ = cheerio.load(html);
+  // alternatively can select by class (was not used)
+  // let rows = $('.athing').each(() => console.log($(this).text()));
 
   for (let i = 1; i <= 88; i+=3) {
     // grabs the needed table Row
